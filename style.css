@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-family:monospace;
+    font-weight: 300;
+}
+.line{
+    width: 50x;
+    background-color: black;
+    height: 5px;
+    margin: 8px auto;
+}
+#Apps{
+   background-color: lightcoral; 
+}
+#Games{
+    background-color: aqua;
+}
+#chatbot{
+    background-color:chartreuse;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#mycarousel {
+    background-color: red; 
+} 
+#mycarousel img {
+    height: 300px; 
+    margin-top: 35px; 
+} 
+.carousel-inner p 
+{
+    margin-top: 15px; 
+    color : white; 
+    font-size: 30px; 
+}
